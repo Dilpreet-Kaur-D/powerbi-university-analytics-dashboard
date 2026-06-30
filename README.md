@@ -109,4 +109,4 @@ README.md
 
 **Dilpreet Kaur**
 
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
+
