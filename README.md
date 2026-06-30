@@ -10,7 +10,7 @@ An interactive Power BI dashboard built to compare universities across different
 
 ```html
 <p align="center">
-  <img src="Dashboard@.png" alt="University Analytics Dashboard" width="900">
+  <img src="Dashboard2.png" alt="University Analytics Dashboard" width="900">
 </p>
 ```
 
