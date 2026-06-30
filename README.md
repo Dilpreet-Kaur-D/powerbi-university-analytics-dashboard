@@ -6,13 +6,7 @@ An interactive Power BI dashboard built to compare universities across different
 
 ## 📷 Dashboard Preview
 
-> Upload your dashboard screenshot as **Dashboard.png** and replace the placeholder below.
-
-```html
-<p align="center">
-  <img src="Dashboard2.png" alt="University Analytics Dashboard" width="900">
-</p>
-```
+![University Analytics Dashboard](Dashboard2.png)
 
 ---
 
